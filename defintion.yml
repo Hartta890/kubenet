@@ -5,7 +5,7 @@ metadata:
  name: nginx
  labels: 
   type: proxy
-  author: intelliqit
+  author: intell
 spec: 
  containers:
   - name: webserver
